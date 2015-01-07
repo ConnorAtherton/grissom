@@ -1,0 +1,25 @@
+{
+  "name": "grissom",
+  "version": "0.1.0",
+  "description": "A tool for investigating html errors.",
+  "main": "src/grissom.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ConnorAtherton/grissom.git"
+  },
+  "keywords": [
+    "html",
+    "lint",
+    "code",
+    "quality"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorAtherton/grissom/issues"
+  },
+  "homepage": "https://github.com/ConnorAtherton/grissom"
+}
